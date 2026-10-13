@@ -4,7 +4,7 @@
 
 ## 開始遊玩
 
-直接用瀏覽器開啟 `index.html`，選擇一位夥伴即可開始。遊戲進度會自動儲存在目前瀏覽器的 `localStorage`。
+直接用瀏覽器開啟 `index.html`，選擇一位夥伴並為牠命名即可開始。遊戲進度（包含自訂名稱）會自動儲存在目前瀏覽器的 `localStorage`。
 
 ## GitHub Pages 發布
 
